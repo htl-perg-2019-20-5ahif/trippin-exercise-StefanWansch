@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\trippin-exercise-StefanWansch\\Trippin_Wansch\\Trippin_Wansch\\Trippin_Wansch.csproj": {}
+  },
+  "projects": {
+    "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\trippin-exercise-StefanWansch\\Trippin_Wansch\\Trippin_Wansch\\Trippin_Wansch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\trippin-exercise-StefanWansch\\Trippin_Wansch\\Trippin_Wansch\\Trippin_Wansch.csproj",
+        "projectName": "Trippin_Wansch",
+        "projectPath": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\trippin-exercise-StefanWansch\\Trippin_Wansch\\Trippin_Wansch\\Trippin_Wansch.csproj",
+        "packagesPath": "C:\\Users\\Stefan Wansch\\.nuget\\packages\\",
+        "outputPath": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\trippin-exercise-StefanWansch\\Trippin_Wansch\\Trippin_Wansch\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan Wansch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
